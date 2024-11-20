@@ -2,11 +2,11 @@
   "patients": [
     {
       "id": "1",
-      "name": "Chul Soo Lee",
-      "age": 45,
-      "gender": "Male",
+      "name": "Daeun Kim",
+      "age": 22,
+      "gender": "Female",
       "vitalSigns": {
-        "heartRate": [72, 75, 78, 80],
+        "heartRate": [88, 112, 79, 90],
         "bloodPressure": [
           {"systolic": 120, "diastolic": 80},
           {"systolic": 118, "diastolic": 79},
@@ -17,8 +17,8 @@
     },
     {
       "id": "2",
-      "name": "Hana Kim",
-      "age": 36,
+      "name": "Daeun Park",
+      "age": 22,
       "gender": "Female",
       "vitalSigns": {
         "heartRate": [80, 90, 120, 110],
