@@ -1,0 +1,32 @@
+[
+  {
+    "email": "kimdaeun@pukyong.ac.kr",
+    "password": "dada030328",
+    "name": "Kimdaeun",
+  },
+  {
+    "email": "bob@example.com",
+    "password": "password456",
+    "name": "Sponge Bob",
+  },
+  {
+    "email": "charlie@example.com",
+    "password": "password789",
+    "name": "Charlie",
+  },
+  {
+    "email": "delta@example.com",
+    "password": "password012",
+    "name": "SpaceA",
+  },
+  {
+    "email": "nobel@example.com",
+    "password": "password345",
+    "name": "Nobel",
+  },
+  {
+    "email": "pknu@example.com",
+    "password": "password678",
+    "name": "PKNU",
+  }
+]
