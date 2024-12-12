@@ -1,0 +1,13 @@
+{
+  "patients": [
+    {
+      "id": "1",
+      "name": "Kimdaeun",
+      "age": 22,
+      "gender": "여자",
+      "vitalSigns": {
+        "몸무게": [55, 51, 58, 54, 56]
+      }
+    }
+  ]
+}
